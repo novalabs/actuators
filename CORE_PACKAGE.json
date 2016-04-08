@@ -1,0 +1,8 @@
+{
+  "name": "actuators",
+  "namespace": "@",
+  "description": "Actuators",
+  "sources": [
+    "MC33926.cpp"
+  ]
+}
